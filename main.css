@@ -91,10 +91,10 @@ body{
  /*==end of service Section======*/
  /*=========Product Section===*/
 #products{
-    background: #000;
+    background: #FFFF00;
 }
 .product-title{
-    color: #fff;
+    color: #000;
 }
 .single-item{
     display: inline-block;
